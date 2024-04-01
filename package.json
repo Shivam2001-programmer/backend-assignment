@@ -1,0 +1,15 @@
+{
+  "name": "rest-file-upload",
+  "version": "1.0.0",
+  "description": "A REST application for file upload with Node.js and Express.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "multer": "^1.4.3",
+    "uuid": "^8.3.2"
+  }
+}
